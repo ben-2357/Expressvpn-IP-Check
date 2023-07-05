@@ -4,3 +4,6 @@ This Python script checks if your IP address is currently connected to an Expres
 ```
 curl https://github.com/ben-2357/Expressvpn-IP-Check/ip-check.py -o ip-check.py
 ```
+```
+chmod +x ip-check.py
+```
